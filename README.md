@@ -11,7 +11,6 @@
   <a href="https://www.linkedin.com/in/mahmoud-sanad-578b5b206/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mahmoudsanad.business@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Cairo%2C%20Egypt-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=Mahmoud-Sanad&style=for-the-badge&color=203a43&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
